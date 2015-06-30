@@ -16,6 +16,8 @@ But you ought to be careful, the power of the legos is not a joke!
 
 Would you like to?
 
+Hint: the cake is a lie
+
 [practice flying?](../super-powers/practice-flying.md)
 
 or
